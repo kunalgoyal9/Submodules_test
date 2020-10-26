@@ -1,0 +1,6 @@
+[submodule "branch1"]
+	path = branch1
+	url = https://github.com/kunalgoyal9/Submodules_test.git
+[submodule "branch3"]
+	path = branch3
+	url = https://github.com/kunalgoyal9/Submodules_test.git
